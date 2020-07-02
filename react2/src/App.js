@@ -23,10 +23,4 @@ function App() {
   );
 }
 
-const BusinessCard = (props) => {
-    return <BrowserRouter>
-
-    </BrowserRouter>
-}
-
 export default App;
